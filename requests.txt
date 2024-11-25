@@ -1,0 +1,6 @@
+keras = "==2.15"
+tensorflow = "==2.15"
+"discord.py" = "*"
+pillow = "*"
+numpy = "*"
+requests = "*"
